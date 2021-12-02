@@ -1,0 +1,41 @@
+#texte {
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    font-weight:bold;
+
+    background-color:rgb(255, 241, 58);
+
+    border: 5px solid black;
+
+    width: 200px;
+    
+    height: 723px;
+
+    padding: 10px;
+    
+    position: absolute;
+
+    right: 0px;
+
+    top: 0px;
+
+
+
+
+}
+
+
+body{
+    
+    
+background-image:url("../images/arriere_plan_base.png");
+
+background-repeat: no-repeat;
+
+background-size: 600px 750px;
+
+
+}
+
+
