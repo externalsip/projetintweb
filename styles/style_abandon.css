@@ -1,0 +1,54 @@
+#texte {
+
+    font-family: VCR OSD Mono;
+
+    font-weight:bold;
+
+    background-color:black;
+
+    color: white;
+
+    border: 5px solid white;
+
+    width: 1506px;
+    
+    height: 100px;
+
+    padding: 10px;
+    
+    position: absolute;
+
+    right: 0px;
+
+    bottom: 0px;
+
+}
+
+#bouton{
+
+    font-family: VCR OSD Mono;
+
+    border: 2px solid white;
+
+    text-align: center;
+
+    background-color:black;
+
+    color: white;
+
+    position: absolute;
+
+    bottom: 0px;
+
+    right: 5px;
+
+}
+
+
+body{
+
+background-color: black;
+
+
+
+}
