@@ -33,7 +33,11 @@ background-image:url("../images/arriere_plan_base.png");
 
 background-repeat: no-repeat;
 
-background-size: 600px 750px
+
+background-size: 600px 750px;
+=======
+background-size: 600px 750px;
+
 
 
 }
