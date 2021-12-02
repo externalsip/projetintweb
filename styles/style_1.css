@@ -1,16 +1,18 @@
 #texte {
 
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: VCR OSD Mono;
 
     font-weight:bold;
 
-    background-color:rgb(255, 241, 58);
+    background-color:black;
 
-    border: 5px solid black;
+    color: white;
 
-    width: 200px;
+    border: 5px solid white;
+
+    width: 1506px;
     
-    height: 723px;
+    height: 100px;
 
     padding: 10px;
     
@@ -18,10 +20,28 @@
 
     right: 0px;
 
-    top: 0px;
+    bottom: 0px;
 
 
 
+
+}
+
+#abandonner{
+
+    font-family: VCR OSD Mono;
+
+    background-color:black;
+
+    color: white;
+
+    border: 3px solid white;
+
+    position: absolute;
+
+    bottom:0px;
+
+    left:5px;
 
 }
 
@@ -33,9 +53,62 @@ background-image:url("../images/arriere_plan_base.png");
 
 background-repeat: no-repeat;
 
-background-size: 600px 750px
+background-size: 1536px 864px;
+
+background-color: black;
+
+}
+
+
+#trombones{
+
+    
+    position: absolute;
+
+    left: 590px;
+
+    bottom: 135px;
+
+    width: 200px;
+
+    height: 208px;
+
+    border: 5px solid rgb(255 241 58)
 
 
 }
 
 
+
+#pistolet{
+
+    position:absolute;
+
+    right: 150px;
+
+    bottom: 133px;
+
+    width: 312px;
+
+    height: 248px;
+
+    border: 5px solid rgb(255 241 58)
+
+}
+
+
+#pied_de_biche{
+
+position:absolute;
+
+left: 225px;
+
+top: 200px;
+
+width: 552px;
+
+height: 96px;
+
+border: 5px solid rgb(255 241 58)
+
+}
