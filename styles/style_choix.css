@@ -1,0 +1,109 @@
+#texte {
+
+    font-family: VCR OSD Mono;
+
+    font-weight:bold;
+
+    background-color:black;
+
+    color: white;
+
+    border: 5px solid white;
+
+    width: 1506px;
+    
+    height: 100px;
+
+    padding: 10px;
+    
+    position: absolute;
+
+    right: 0px;
+
+    bottom: 0px;
+
+}
+
+#abandonner{
+
+    font-family: VCR OSD Mono;
+
+    background-color:black;
+
+    color: white;
+
+    border: 3px solid white;
+
+    position: absolute;
+
+    bottom:0px;
+
+    left:5px;
+
+}
+
+body{
+
+background-color:black;
+
+}
+
+#bouton1{
+
+    font-family: VCR OSD Mono;
+
+    border: 2px solid white;
+
+    text-align: center;
+
+    background-color:black;
+
+    color: white;
+
+    position: absolute;
+
+    bottom: 70px;
+
+    right: 5px;
+
+}
+
+#bouton2{
+
+    font-family: VCR OSD Mono;
+
+    border: 2px solid white;
+
+    text-align: center;
+
+    background-color:black;
+
+    color: white;
+
+    position: absolute;
+
+    bottom: 35px;
+
+    right: 5px;
+
+}
+
+#bouton3{
+
+    font-family: VCR OSD Mono;
+
+    border: 2px solid white;
+
+    text-align: center;
+
+    background-color:black;
+
+    color: white;
+
+    position: absolute;
+
+    bottom: 0px;
+
+    right: 5px;
+
+}
