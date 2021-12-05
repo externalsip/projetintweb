@@ -1,0 +1,123 @@
+body{
+
+background-image: url("/images/poigneeporte_closeup.png");
+background-repeat: no-repeat;
+background-size:1920px 1080px ;
+
+}
+
+#crochet1{
+
+position: absolute;
+
+left: 920px;
+
+top: 520px;
+
+}
+
+#crochet2{
+
+     position: absolute;
+     
+     left: 1080px;
+     
+     top: 490px;
+     
+}
+
+#crochet3{
+
+     position: absolute;
+     
+     left: 840px;
+     
+     top: 470px;
+     
+}
+
+#crochet4{
+
+     position: absolute;
+     
+     left: 1000px;
+     
+     top: 440px;
+     
+}
+
+#crochet5{
+
+     position: absolute;
+     
+     left: 760px;
+     
+     top: 390px;
+     
+}
+
+#trombone{
+
+     position: absolute;
+     
+     left: 40px;
+
+     top: 570px;
+     
+     transform: rotate(30deg)
+
+}
+
+
+.marginauto{
+
+position: absolute;
+
+left: 670px;
+
+top: 80px;
+     
+}
+
+.boutons{
+
+outline: solid;
+
+color: yellow;
+
+}
+
+#instructions{
+
+position: absolute;
+     
+left: 1300px;
+     
+top: 200px;
+     
+}
+
+#texte_instructions{
+
+font-family: VCR OSD mono;
+
+font-size: 16px;
+
+position: absolute;
+
+left: 1350px;
+
+top: 400px;
+
+}
+
+#texte{
+
+color: white;
+
+}
+
+
+
+
+
