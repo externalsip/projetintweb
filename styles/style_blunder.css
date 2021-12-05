@@ -1,6 +1,6 @@
 body{
 
-background-image: url("/images/poigneeporte_closeup.png");
+background-image: url("../images/poigneeporte_closeup.png");
 background-repeat: no-repeat;
 background-size:1920px 1080px ;
 
@@ -111,12 +111,33 @@ top: 400px;
 
 }
 
-#texte{
 
-color: white;
+#texte {
 
-}
-
+          font-family: VCR OSD Mono;
+      
+          font-weight:bold;
+      
+          background-color:black;
+      
+          color: white;
+      
+          border: 5px solid white;
+      
+          width: 1506px;
+          
+          height: 100px;
+      
+          padding: 10px;
+          
+          position: absolute;
+      
+          right: 0px;
+      
+          bottom: 0px;
+      
+      }
+      
 
 
 

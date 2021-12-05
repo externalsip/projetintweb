@@ -46,6 +46,14 @@ body{
 
 background-color:black;
 
+background-image:url(../images/maison_ext.png);
+
+background-repeat: no-repeat;
+
+background-size:1536px 864px;
+
+background-color:black;
+
 }
 
 #bouton1{
